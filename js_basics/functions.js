@@ -31,3 +31,7 @@ let a = Number("456a")
 console.log(typeof a)
 console.log(a)
 
+for (let index = 0; index < 10; index++) {
+    const element = array[index];
+    
+}
